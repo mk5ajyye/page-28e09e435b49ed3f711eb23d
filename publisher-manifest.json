@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "348de135a595fb382edef20d",
+  "owner": "mk5ajyye",
+  "repo": "page-28e09e435b49ed3f711eb23d",
+  "title": "蜂巢",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "28e09e435b49ed3f711eb23d",
+      "a": "蜂巢",
+      "b": "",
+      "entity": "蜂巢",
+      "brand": "蜂巢",
+      "separator": "",
+      "path": "index.html",
+      "hash": "6e6427b3d26530b69d7fe22fa93e984785265022bcb36b8e1c9834cd76becb2f",
+      "content": {
+        "keyword1": "蜂巢",
+        "keyword2": "",
+        "primary_entity": "蜂巢",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "蜂巢是专注稳定连接的官方网络加速平台，提供机场订阅、VPN梯子与多端客户端下载，支持流媒体解锁、游戏专线与团队协作场景下的节点配置。",
+          "AI_DESCRIPTION": "蜂巢是专注稳定连接的官方网络加速平台，提供机场订阅、VPN梯子与多端客户端下载，支持流媒体解锁、游戏专线与团队协作场景下的节点配置。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>html,body{margin:0;padding:0;background:#071422;color:#e8f4f8;font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;font-size:16px;line-height:1.75;overflow-x:hidden}*{box-sizing:border-box}a{color:#67e8f9;text-decoration:none}a:focus{outline:2px solid #22d3ee;outline-offset:2px}img{max-width:100%}.wrap{max-width:1080px;margin:0 auto;padding:0 16px}header{background:#0a1c33;border-bottom:1px solid #155e75;padding:12px 0}header .brand{font-weight:700;color:#ecfeff;font-size:1.15rem}header nav{display:flex;flex-wrap:wrap;gap:10px 14px;margin-top:8px}header nav a{font-size:14px;color:#a5f3fc}main{padding:8px 0 40px}h1{font-size:1.85rem;line-height:1.3;color:#ecfeff;margin:18px 0 10px}h2{font-size:1.35rem;color:#22d3ee;margin:28px 0 12px;padding-top:8px}h3{font-size:1.08rem;color:#a5f3fc;margin:16px 0 8px}p,li{color:#d7e6ee}ul{padding-left:1.2em;margin:8px 0 14px}.lead{font-size:1.05rem;color:#cde7ef;margin-bottom:14px}.panel{background:#0f2744;border:1px solid #164e63;border-radius:12px;padding:16px;margin:12px 0}.plans{display:flex;flex-direction:column;gap:12px}.plan{background:#0f2744;border:1px solid #164e63;border-radius:12px;padding:16px}.plan.featured{border-color:#22d3ee;background:#103047}.price{font-size:1.4rem;color:#ecfeff;font-weight:700}.annual{color:#67e8f9;font-size:14px;margin:4px 0 10px}.tag{display:inline-block;background:#155e75;color:#ecfeff;border-radius:999px;padding:2px 10px;font-size:12px;margin-bottom:8px}.steps{display:flex;flex-direction:column;gap:12px}.step{background:#0f2744;border:1px solid #164e63;border-radius:12px;padding:14px 16px}.num{color:#22d3ee;font-weight:700;font-size:13px;letter-spacing:0.08em}.faq details{background:#0f2744;border:1px solid #164e63;border-radius:10px;padding:10px 14px;margin:0 0 8px}.faq summary{color:#67e8f9;font-weight:600;cursor:pointer}.faq details p{margin:8px 0 4px;color:#d7e6ee}.grid{display:flex;flex-direction:column;gap:12px}.muted{color:#9fb3c0;font-size:14px}footer{border-top:1px solid #155e75;background:#08111d;padding:20px 0 28px;color:#9fb3c0;font-size:14px}.list-inline{display:flex;flex-wrap:wrap;gap:8px 14px}.list-inline a{background:#0f2744;border:1px solid #164e63;border-radius:8px;padding:6px 10px;font-size:14px}@media (min-width:768px){.plans{flex-direction:row;align-items:stretch}.plan{flex:1}h1{font-size:2.1rem}header .row{display:flex;align-items:center;justify-content:space-between}header nav{margin-top:0}}</style><header><div class=\"wrap row\"><div class=\"brand\">蜂巢官方网站</div><nav><a href=\"#intro\">品牌简介</a><a href=\"#plans\">套餐方案</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">配置流程</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a><a href=\"#ads\">合作广告</a><a href=\"#links\">友情链接</a><a href=\"#sitemap\">网站地图</a></nav></div></header><main id=\"main\"><div class=\"wrap\"><section id=\"intro\"><h1>蜂巢</h1><p class=\"lead\">蜂巢官网提供机场订阅、VPN 梯子网络加速与多端加速器客户端下载。页面围绕节点配置流程展开，帮助你在办公检索、流媒体与游戏场景中完成订阅导入和稳定连接。</p><div class=\"panel\"><p>蜂巢是面向个人与小团队的网络加速服务。订阅可在主流客户端中导入，节点覆盖常规线路与 IPLC 游戏优化线路。官方网站只发布套餐说明、操作步骤与客户端指引，不捆绑来源不明的安装包。</p><p>若你需要的是可预期的流量配额、同时在线设备数以及可复用的配置步骤，可从下方套餐对照后进入配置流程。旗舰版适合日常流媒体与游戏加速，团队版面向多设备与定制路由。</p></div></section><section id=\"plans\"><h2>蜂巢套餐与机场订阅</h2><p>价格按自然月计费，年付可锁定当前档位。流量在订阅周期内按实际转发计量，到期未用完不结转。以下三档均可用于蜂巢 VPN / 蜂巢机场订阅导入。</p><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"plan featured\"><p class=\"tag\">配置流程推荐档</p><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div></section><section id=\"scenes\"><h2>使用场景</h2><div class=\"grid\"><article class=\"panel\"><h3>跨境办公与资料检索</h3><p>在需要访问海外文档、代码仓库或会议系统时，使用蜂巢加速器选择延迟更低的常规节点。基础版即可覆盖三台设备，适合笔记本加手机的日常组合。</p></article><article class=\"panel\"><h3>流媒体播放</h3><p>旗舰版强调全节点原生流媒体解锁。观看前先在客户端切换至标注流媒体的节点，避免把游戏专线用于大流量点播，以便把配额留给高峰时段。</p></article><article class=\"panel\"><h3>游戏与实时对战</h3><p>需要更稳的往返时延时，优先使用 IPLC 专线游戏加速优化节点。保持单一游戏进程在线，减少同设备多应用抢占会话。</p></article><article class=\"panel\"><h3>团队共用与多设备</h3><p>团队版提供更高设备上限与定制路由，适合工作室把办公网段与娱乐网段分开。由客户经理协助规划订阅导入方式，避免重复配置。</p></article></div></section><section id=\"guide\"><h2>配置流程</h2><p>蜂巢把上线过程拆成纵向五步。按顺序完成即可在客户端中看到节点列表。全程不需要修改系统代理之外的未知脚本。</p><div class=\"steps\"><article class=\"step\"><p class=\"num\">步骤 01 · 确认套餐</p><h3>选择流量与设备上限</h3><p>对照同时在线设备数与月流量。仅手机加电脑时，基础版通常足够；需要原生流媒体与游戏线路时选择旗舰版；超过五台终端或要拆分路由时选择团队版。</p></article><article class=\"step\"><p class=\"num\">步骤 02 · 获取订阅</p><h3>复制机场订阅地址</h3><p>在蜂巢账户中生成通用订阅链接。该链接用于 Clash、Shadowrocket、Surge 与 Windows 客户端批量拉取节点，不要把链接发到公开聊天以免被滥用流量。</p></article><article class=\"step\"><p class=\"num\">步骤 03 · 安装客户端</p><h3>前往官方下载分区</h3><p>仅从本页客户端下载锚点记录的系统匹配版本。安装完成后先打开空白配置，不要导入来源不明的第三方文件。</p></article><article class=\"step\"><p class=\"num\">步骤 04 · 导入并更新</p><h3>粘贴订阅并刷新节点</h3><p>在客户端订阅栏粘贴链接，执行一次更新。成功后应出现按地区与用途分组的节点。若列表为空，检查系统时间是否准确，再重试更新。</p></article><article class=\"step\"><p class=\"num\">步骤 05 · 选择节点连接</p><h3>按场景挑选线路</h3><p>浏览与办公选普通线路；影视选流媒体分组；对战游戏选 IPLC。连接后访问状态页确认出口 IP 已切换，再打开目标应用。切换节点前先断开当前会话，减少 DNS 缓存干扰。</p></article></div></section><section id=\"download\"><h2>客户端下载</h2><p>蜂巢 VPN 与蜂巢机场订阅兼容常见图形客户端。请按系统选择，安装后回到配置流程第四步导入。以下入口均为页面锚点，用于官方下载说明归档，不跳转到站外安装源。</p><div class=\"panel\"><h3>桌面端</h3><ul><li><a href=\"#download\">Windows 客户端</a>：适合导入通用订阅，支持系统代理与规则分流。</li><li><a href=\"#download\">macOS 客户端</a>：可与 Surge 或兼容 Clash 配置的应用配合使用。</li><li><a href=\"#download\">Linux 客户端</a>：命令行或图形前端均可读取同一订阅。</li></ul><h3>移动端</h3><ul><li><a href=\"#download\">iOS 客户端</a>：通过 Shadowrocket 等应用粘贴订阅。</li><li><a href=\"#download\">Android 客户端</a>：使用兼容 Clash Meta 的应用更新节点。</li></ul><p class=\"muted\">官方下载只提供客户端名称与配置步骤，不附带破解包或修改版内核。若安装器校验码与说明不一致，停止安装并回到本页重新核对。</p></div></section><section id=\"faq\" class=\"faq\"><h2>常见问题</h2><details><summary>蜂巢是什么？和普通 VPN 加速器有何不同？</summary><p>蜂巢是以机场订阅为核心的网络加速服务。你在官网选定套餐后获得可更新的节点列表，而不是单一固定服务器。VPN 梯子用于加密传输，机场订阅用于批量管理线路，二者在客户端里一起完成。</p></details><details><summary>如何完成蜂巢机场订阅的导入？</summary><p>复制账户中的订阅地址，打开已安装的客户端，进入订阅或配置页面粘贴链接并更新。导入成功后按配置流程第五步选择节点。不要把同一链接同时填进来源不明的应用。</p></details><details><summary>客户端下载应该选哪个版本？</summary><p>Windows 与 Android 优先选择兼容 Clash 配置的稳定版；iOS 使用支持订阅的应用；macOS 可按你已有的 Surge 或 Clash 系工具导入。本页官方下载分区按系统列出名称，安装后回到配置流程即可。</p></details><details><summary>基础版、旗舰版和团队版怎样挑选？</summary><p>三台设备、轻度浏览选基础版。需要原生流媒体、游戏 IPLC 与优先工单选旗舰版。二十台设备、定制路由和专属客户经理选团队版。年付价格已在各档标明，便于按年度锁定配额。</p></details><details><summary>流量如何计算，年付是否共享设备？</summary><p>流量按订阅周期内实际转发字节累计，含上下行。年付只是把十二个月费用合并，不额外增加月度配额。设备数按同时在线会话统计，超出上限时新设备无法握手，需先断开空闲终端。</p></details><details><summary>连接失败时按什么顺序排查？</summary><p>先确认系统时间准确，再更新订阅。随后更换同分组另一节点，并检查本地防火墙是否拦截客户端。若仅某个网站失败，尝试切换规则模式。仍失败时，旗舰版与团队版可通过工单提交客户端日志时间戳。</p></details><details><summary>蜂巢官网是否提供额外插件或浏览器扩展？</summary><p>不需要。完成客户端下载与订阅导入后，由客户端接管系统或应用代理。避免安装声称一键破解的扩展，以免泄露订阅链接。</p></details></section><section id=\"ads\"><h2>合作广告</h2><div class=\"panel\"><p>本栏用于蜂巢官网文字合作展示，不加载外部广告脚本。</p><p><a href=\"#ads\">节点质量看板合作</a>：面向需要展示延迟采样的工具站点，可交换文字入口。</p><p><a href=\"#ads\">合规企业网络咨询</a>：团队版客户可预约路由规划说明，不涉及任何攻击或绕过授权系统的内容。</p></div></section><section id=\"links\"><h2>友情链接</h2><p>以下为文字友链，全部指向本页锚点，便于审核与归档。</p><div class=\"list-inline\"><a href=\"#intro\">蜂巢品牌简介</a><a href=\"#guide\">配置流程手册</a><a href=\"#download\">官方下载索引</a><a href=\"#faq\">订阅常见问题</a><a href=\"#sitemap\">站点地图</a><a href=\"#plans\">套餐对照表</a></div></section><section id=\"sitemap\"><h2>网站地图</h2><p>蜂巢官方网站当前为单页结构，地图列出全部可读区块，便于检索与分享。</p><ul><li><a href=\"#intro\">品牌简介</a></li><li><a href=\"#plans\">套餐方案</a></li><li><a href=\"#scenes\">使用场景</a></li><li><a href=\"#guide\">配置流程</a></li><li><a href=\"#download\">客户端下载</a></li><li><a href=\"#faq\">常见问题</a></li><li><a href=\"#ads\">合作广告</a></li><li><a href=\"#links\">友情链接</a></li></ul></section></div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><p>蜂巢官方网站 · 机场订阅与 VPN 梯子网络加速说明页</p><p class=\"muted\">内容用于介绍套餐、配置流程与客户端下载路径。使用网络加速服务时请遵守所在地法律法规与目标网站条款。</p><p><a href=\"#main\">返回顶部</a> · <a href=\"#sitemap\">网站地图</a> · <a href=\"#download\">官方下载</a></p></div></footer>",
+          "hash": "7810789655b7d7aed986c82408965f9edadfe88843a90c5c72c46178adcd21bb",
+          "seo": {
+            "title": "蜂巢官网｜VPN梯子网络加速、加速器与机场订阅客户端下载",
+            "keywords": "蜂巢,蜂巢官网,蜂巢机场,蜂巢VPN,蜂巢加速器,梯子,网络加速,机场订阅,客户端下载,官方下载",
+            "description": "蜂巢是专注稳定连接的官方网络加速平台，提供机场订阅、VPN梯子与多端客户端下载，支持流媒体解锁、游戏专线与团队协作场景下的节点配置。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "shicdba.cn",
+    "host": "p-8277f66c65.shicdba.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "shicdba.cn",
+      "url": "https://shicdba.cn/",
+      "label": "Miru",
+      "apex": "shicdba.cn",
+      "kind": null,
+      "identity": "senbtbdyg/page-5cdad10e63f77c69d8f50b73"
+    },
+    {
+      "host": "skgxx.cn",
+      "url": "https://skgxx.cn/",
+      "label": "蜂巢",
+      "apex": "skgxx.cn",
+      "kind": null,
+      "identity": "ksmqtuqhwgv/page-e322186ee32e898da5c7cec2"
+    },
+    {
+      "host": "vxjxa.cn",
+      "url": "https://vxjxa.cn/",
+      "label": "蜂巢",
+      "apex": "vxjxa.cn",
+      "kind": null,
+      "identity": "bfnhwhp/page-d5845a8393961d3fc525678d"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "b97680d45ee44cb071c2a25ce2eb52c02be8e387abeadb8170554bba04370580",
+    "sitemap.xml": "0129c73ae75abc114433fe2d44847917546f9f81a049d2703ce538f95df8afc7",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "5ba8a80a02c5153ac966982dbc5ecda00ff0d8599eaf9b3596da282d0e910b33",
+    "robots.txt": "f3d729e61592d8d0b21479fcdd69d063fc7c39c7cb91bd450c8854ec778f5963",
+    "1970dbb6df7d4b1bf5c3137432151bae.txt": "cbeb12cfa4726d07b7b07bc606d96c6d9fe0de9eb7c5b6c16aa4d41d95f49108"
+  },
+  "revision": "b331e89b66a8396733ad4618be96912f9299e693d44acc370d91819c3f7bf0d8"
+}
